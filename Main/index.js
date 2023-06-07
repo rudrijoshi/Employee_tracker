@@ -16,8 +16,17 @@ const db = mysql.createConnection(
 db.query = util.promisify(db.query);
 
 const logo = asciiArt({
-    name: 'Employee Manager'
-})
+    name: 'Employee Manager',
+    font: 'Doom',
+    lineChars: 10,
+    padding: 5,
+    margin: 3,
+    borderColor: 'green',
+    logoColor: 'yellow',
+    textColor: 'pink'
+}).render();
+console.log(logo);
+
 const question = [
     {
         type: 'list',
