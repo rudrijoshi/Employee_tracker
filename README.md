@@ -23,7 +23,7 @@ What are the steps required to install your project?
 
 Screenshot of logo.svg file
 
-![SVG logo screenshot](./Images/screenshot.png)
+![Employee tracker screenshot](./Assets/screenshot.png)
 
 ## Credits
 
@@ -35,4 +35,4 @@ If you followed tutorials, include links to those here as well: https://www.w3sc
 
 -URL link for the Github repository: https://github.com/rudrijoshi/Employee-Tracker-Project/
 
--URL link for the screencastify: https://watch.screencastify.com/v/mf7Vix9BMebWfAJxc2DF
+-URL link for the screencastify: https://watch.screencastify.com/v/I3r4GAQhd0ofDEBpF9Ya

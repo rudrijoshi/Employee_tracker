@@ -26,14 +26,12 @@ const logo = asciiArt({
     textColor: 'pink'
 }).render();
 console.log(logo);
-
 const question = [
     {
         type: 'list',
         name: 'option',
         message: 'What would you like to do?',
         choices: ['View All Employees', 'Add Employee', 'Update Employee Role', 'View All Role', 'Add Role', 'View All Departments', 'Add Department', 'Quit']
-
     }];
 function menu() {
     inquirer.prompt(question).then(answers => {
