@@ -1,4 +1,4 @@
-# 12 SQL Challenge: Employee Tracker Project
+# Employee tracker
 
 ## Description
 Employee tracker project is used to build a command-line application from scratch to manage a company's employee database.
@@ -31,8 +31,8 @@ If you followed tutorials, include links to those here as well: https://www.w3sc
 
 ## Links
 
--URL link for the deployed Github application: https://rudrijoshi.github.io/Employee-Tracker-Project/
+-URL link for the deployed Github application: https://rudrijoshi.github.io/Employee_tracker/
 
--URL link for the Github repository: https://github.com/rudrijoshi/Employee-Tracker-Project/
+-URL link for the Github repository: https://github.com/rudrijoshi/Employee_tracker/
 
 -URL link for the screencastify: https://watch.screencastify.com/v/I3r4GAQhd0ofDEBpF9Ya
